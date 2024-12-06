@@ -28,5 +28,5 @@ for specialty in data: #Цикл for для перебора элементов 
 
 else: #Оператор else если квалификация найдена
     print("================== Найдено ==================") #Вывод на консоль
-    print(f"{specialty_c} >> Специальность '{specialty_title}', {specialty_educational}") #Вывод на консоль 
-    print(f"{id} >> Квалификация '{skill_title}'") #Вывод на консоль 
+    print(f"{specialty_c} >> Специальность '{specialty_title}', {specialty_educational}") #Форматированный вывод на консоль 
+    print(f"{id} >> Квалификация '{skill_title}'") #Форматированный вывод на консоль
